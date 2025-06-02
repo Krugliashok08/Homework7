@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Collection;
 
-public class Main {
+public class TestClass {
     public static void main(String[] args) {
         // Тестирование JSON реализации
         System.out.println("Testing JSON implementation:");

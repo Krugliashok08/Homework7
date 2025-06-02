@@ -2,7 +2,8 @@ package org.example;
 
 import java.util.Collection;
 
-public class PlayerService {
+public interface PlayerService {
+    // получить игрока по id
     Player getPlayerById(int id);
 
     // получить список игроков
