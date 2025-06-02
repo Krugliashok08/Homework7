@@ -79,7 +79,6 @@ public class PlayerServiceXML implements PlayerService {
         return -1;
     }
 
-    // Вспомогательный класс для правильной сериализации XML
     public static class PlayerListWrapper {
         private Collection<Player> players;
 
